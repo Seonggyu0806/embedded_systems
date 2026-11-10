@@ -1,0 +1,91 @@
+# API check 2026-11-10 18:18:34 host=localhost
+### 1. health
+$ curl http://localhost:5000/health
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"service":"embedded-web","status":"ok"}
+
+### 2. status
+$ curl http://localhost:5000/api/status
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"checked_at":"2026-11-10T18:18:33+09:00","error_message":"A full buffer was not returned. Try again.","humidity":46.7,"last_command":null,"led_state":"off","mode":"MANUAL","sensor_status":"ERROR","temperature":26.9,"updated_at":"2026-11-10T18:18:28+09:00"}
+
+### 3. readings limit=5
+$ curl http://localhost:5000/api/readings?limit=5
+HTTP/1.1 200 OK
+Content-Type: application/json
+[{"humidity":null,"status":"ERROR","temperature":null,"timestamp":"2026-11-10T18:18:33+09:00"},{"humidity":46.7,"status":"OK","temperature":26.9,"timestamp":"2026-11-10T18:18:28+09:00"},{"humidity":46.7,"status":"OK","temperature":26.9,"timestamp":"2026-11-10T18:18:23+09:00"},{"humidity":null,"status":"ERROR","temperature":null,"timestamp":"2026-11-10T18:18:18+09:00"},{"humidity":46.7,"status":"OK","temperature":26.9,"timestamp":"2026-11-10T18:18:13+09:00"}]
+
+### 4. readings limit=-1 (하한 보정 → 1행)
+$ curl http://localhost:5000/api/readings?limit=-1
+HTTP/1.1 200 OK
+Content-Type: application/json
+[{"humidity":null,"status":"ERROR","temperature":null,"timestamp":"2026-11-10T18:18:33+09:00"}]
+
+### 5. mode MANUAL
+$ curl -X POST -H Content-Type: application/json -d {"mode":"MANUAL"} http://localhost:5000/api/mode
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"mode":"MANUAL"}
+
+### 6. LED on (202)
+$ curl -X POST -H Content-Type: application/json -d {"state":"on"} http://localhost:5000/api/led
+HTTP/1.1 202 ACCEPTED
+Content-Type: application/json
+{"accepted":true,"command":{"at":"2026-11-10T18:18:35+09:00","source":"browser","state":"on","type":"SET_LED"}}
+
+### 7. status after on
+$ curl http://localhost:5000/api/status
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"checked_at":"2026-11-10T18:18:33+09:00","error_message":"A full buffer was not returned. Try again.","humidity":46.7,"last_command":{"at":"2026-11-10T18:18:35+09:00","result":"applied","source":"browser","state":"on"},"led_state":"on","mode":"MANUAL","sensor_status":"ERROR","temperature":26.9,"updated_at":"2026-11-10T18:18:28+09:00"}
+
+### 8. LED off (202)
+$ curl -X POST -H Content-Type: application/json -d {"state":"off"} http://localhost:5000/api/led
+HTTP/1.1 202 ACCEPTED
+Content-Type: application/json
+{"accepted":true,"command":{"at":"2026-11-10T18:18:36+09:00","source":"browser","state":"off","type":"SET_LED"}}
+
+### 9. invalid state (400)
+$ curl -X POST -H Content-Type: application/json -d {"state":"blink"} http://localhost:5000/api/led
+HTTP/1.1 400 BAD REQUEST
+Content-Type: application/json
+{"error":"state must be on or off"}
+
+### 10. broken JSON (400)
+$ curl -X POST -H Content-Type: application/json -d {"state": http://localhost:5000/api/led
+HTTP/1.1 400 BAD REQUEST
+Content-Type: application/json
+{"error":"request body must be JSON object"}
+
+### 11. mode AUTO
+$ curl -X POST -H Content-Type: application/json -d {"mode":"AUTO"} http://localhost:5000/api/mode
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"mode":"AUTO"}
+
+### 12. LED on in AUTO (409)
+$ curl -X POST -H Content-Type: application/json -d {"state":"on"} http://localhost:5000/api/led
+HTTP/1.1 409 CONFLICT
+Content-Type: application/json
+{"error":"manual mode required"}
+
+### 13. GET /api/led (405)
+$ curl http://localhost:5000/api/led
+HTTP/1.1 405 METHOD NOT ALLOWED
+Content-Type: application/json
+{"error":"method not allowed"}
+
+### 14. unknown path (404)
+$ curl http://localhost:5000/api/nothing
+HTTP/1.1 404 NOT FOUND
+Content-Type: application/json
+{"error":"not found"}
+
+### 15. back to MANUAL
+$ curl -X POST -H Content-Type: application/json -d {"mode":"MANUAL"} http://localhost:5000/api/mode
+HTTP/1.1 200 OK
+Content-Type: application/json
+{"mode":"MANUAL"}
+

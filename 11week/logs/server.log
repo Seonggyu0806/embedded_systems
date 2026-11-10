@@ -1,0 +1,1697 @@
+2026-11-10 17:47:56,355 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 17:48:16,349 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:48:36,352 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:48:51,352 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:48:56,349 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:49:06,351 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:49:26,353 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:49:36,350 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:49:56,354 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:50:01,352 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:50:16,355 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:50:21,352 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:50:31,355 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:50:40,880 INFO web: 127.0.0.1 GET /health 200 0.3ms
+2026-11-10 17:50:44,689 INFO web: 127.0.0.1 GET / 200 5.8ms
+2026-11-10 17:50:44,768 INFO web: 127.0.0.1 GET /static/style.css 200 10.2ms
+2026-11-10 17:50:44,872 INFO web: 127.0.0.1 GET /static/dashboard.js 200 0.8ms
+2026-11-10 17:50:45,035 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:45,060 INFO web: 127.0.0.1 GET /favicon.ico 404 0.2ms
+2026-11-10 17:50:45,157 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 17:50:47,275 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:47,449 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:50:49,568 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:49,755 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:50:51,353 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:50:51,910 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:52,034 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:50:54,155 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:50:54,332 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.6ms
+2026-11-10 17:50:56,356 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:50:56,529 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:56,629 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:50:58,759 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:50:58,929 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:01,055 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:01,353 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:51:01,354 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 84.0ms
+2026-11-10 17:51:03,893 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:04,300 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:06,353 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:51:06,695 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:51:06,893 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 17:51:08,978 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:09,106 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:51:11,356 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:51:11,470 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:12,041 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:14,322 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:14,534 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:16,756 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:16,861 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:51:17,111 INFO web: 127.0.0.1 POST /api/led 202 0.5ms
+2026-11-10 17:51:17,111 INFO device: LED command source=browser state=on -> applied
+2026-11-10 17:51:17,259 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:18,252 INFO web: 127.0.0.1 POST /api/led 202 0.5ms
+2026-11-10 17:51:18,253 INFO device: LED command source=browser state=on -> applied
+2026-11-10 17:51:18,409 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:18,998 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:19,230 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:19,666 INFO web: 127.0.0.1 POST /api/led 202 0.4ms
+2026-11-10 17:51:19,666 INFO device: LED command source=browser state=off -> applied
+2026-11-10 17:51:19,783 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:21,354 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:51:21,433 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:21,556 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:51:21,714 INFO web: mode changed -> MANUAL
+2026-11-10 17:51:21,715 INFO web: 127.0.0.1 POST /api/mode 200 1.5ms
+2026-11-10 17:51:21,836 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:23,186 INFO web: mode changed -> MANUAL
+2026-11-10 17:51:23,188 INFO web: 127.0.0.1 POST /api/mode 200 1.5ms
+2026-11-10 17:51:23,367 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:23,677 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:51:23,802 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:51:24,474 INFO web: mode changed -> AUTO
+2026-11-10 17:51:24,475 INFO web: 127.0.0.1 POST /api/mode 200 1.3ms
+2026-11-10 17:51:24,663 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:26,006 INFO web: mode changed -> MANUAL
+2026-11-10 17:51:26,008 INFO web: 127.0.0.1 POST /api/mode 200 1.4ms
+2026-11-10 17:51:26,017 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:26,305 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:26,333 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 26.9ms
+2026-11-10 17:51:28,437 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:28,618 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:30,765 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:51:30,943 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:31,354 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:51:33,714 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:33,907 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:36,779 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:36,937 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:51:39,759 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:39,924 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:42,715 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:42,897 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:51:45,730 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:51:45,835 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:51:46,357 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:51:48,767 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:48,928 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:51,720 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:51,837 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:51:54,719 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:54,887 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:51:57,725 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:51:57,904 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:00,724 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:01,502 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.2ms
+2026-11-10 17:52:03,942 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:04,173 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:52:07,277 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:52:07,859 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 17:52:10,731 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:52:10,915 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.6ms
+2026-11-10 17:52:11,357 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:52:13,731 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:52:13,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:13,893 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:52:16,750 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:52:16,925 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 17:52:19,725 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:19,897 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:52:22,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:22,952 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:52:25,721 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:25,827 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:28,751 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:52:28,892 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:52:31,358 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:52:31,727 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:31,840 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:34,755 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:34,934 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:36,356 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:52:37,741 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:37,895 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:40,771 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:40,950 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:43,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:44,131 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:46,954 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:47,190 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 17:52:49,868 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:52:50,313 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 17:52:51,359 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:52:52,742 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:53,113 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:55,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:55,868 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:52:58,751 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:52:58,940 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:53:01,067 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:01,358 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 76.7ms
+2026-11-10 17:53:02,406 INFO web: 127.0.0.1 POST /api/led 202 0.4ms
+2026-11-10 17:53:02,406 INFO device: LED command source=browser state=on -> applied
+2026-11-10 17:53:02,595 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:03,492 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:03,662 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:53:04,433 INFO web: 127.0.0.1 POST /api/led 202 0.4ms
+2026-11-10 17:53:04,434 INFO device: LED command source=browser state=off -> applied
+2026-11-10 17:53:04,622 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:05,781 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:05,959 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:08,756 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:53:08,923 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:53:11,359 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:53:11,748 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:53:11,872 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:14,763 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:14,947 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:17,813 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:18,006 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:20,780 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:20,957 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:53:23,766 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:53:23,948 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:53:26,360 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:53:26,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:26,958 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:29,082 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:29,250 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:29,778 INFO web: 127.0.0.1 GET / 200 0.4ms
+2026-11-10 17:53:29,840 INFO web: 127.0.0.1 GET /static/style.css 304 1.0ms
+2026-11-10 17:53:29,967 INFO web: 127.0.0.1 GET /static/dashboard.js 304 0.8ms
+2026-11-10 17:53:30,119 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:30,256 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:32,830 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:33,008 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:35,805 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:35,966 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:38,808 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:38,994 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:42,343 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:53:42,931 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.6ms
+2026-11-10 17:53:46,066 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:53:46,361 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:53:46,510 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:53:48,761 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:48,930 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:53:51,762 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:51,892 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:53:54,841 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:55,020 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:53:56,358 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:53:57,853 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:53:58,038 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:00,772 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:00,933 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:03,759 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:54:03,993 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:54:06,361 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:54:06,843 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:07,051 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:09,862 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:10,060 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:12,758 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:12,923 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:15,761 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:15,901 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:18,776 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:18,987 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:21,768 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:54:21,939 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.6ms
+2026-11-10 17:54:24,744 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:24,909 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:54:27,773 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:54:27,965 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:54:30,768 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:54:30,966 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:54:31,361 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:54:33,748 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:33,911 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:36,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:36,890 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 17:54:39,753 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:39,928 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:42,748 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:42,927 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:54:45,766 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:45,867 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:48,807 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:54:49,004 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:54:51,362 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:54:51,752 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:51,872 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:54,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:54,943 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:54:56,359 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:54:57,785 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:54:57,947 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:00,805 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:00,984 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:03,754 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:03,866 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.1ms
+2026-11-10 17:55:06,793 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:55:06,926 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:55:09,778 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:09,966 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:12,784 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:55:12,999 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.1ms
+2026-11-10 17:55:15,763 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:55:15,921 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 17:55:18,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:18,860 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:21,363 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:55:21,749 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:22,101 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:24,748 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:24,925 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:26,360 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:55:27,756 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:27,931 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:30,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:30,853 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:33,760 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:33,927 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:55:36,754 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:55:36,857 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 17:55:39,738 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:39,909 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:55:42,825 INFO web: 127.0.0.1 GET /api/status 200 0.6ms
+2026-11-10 17:55:43,002 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:55:45,891 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:46,086 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:55:46,362 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:55:48,825 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:49,027 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:55:51,754 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:51,873 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:55:54,865 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:55,159 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:55:56,363 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:55:57,776 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:55:57,991 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:00,816 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:00,938 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:03,747 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:03,938 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:06,361 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:56:06,753 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:06,888 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 17:56:09,796 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:09,971 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:56:12,761 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:12,916 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:15,742 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:15,945 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:56:16,361 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:56:18,767 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:56:18,944 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:56:21,364 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:56:21,757 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:21,897 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 17:56:24,780 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:24,887 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:26,361 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:56:27,779 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:27,953 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 17:56:30,807 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:30,929 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:56:33,779 INFO web: 127.0.0.1 GET /api/status 200 0.3ms
+2026-11-10 17:56:33,963 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:56:36,759 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:36,860 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:39,779 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:39,952 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:41,365 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:56:43,186 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:43,771 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 6.9ms
+2026-11-10 17:56:46,864 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:47,087 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:56:49,879 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:50,289 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:56:52,794 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:53,150 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:56:55,815 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:56:55,964 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:56:58,813 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:56:59,034 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:57:01,363 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:57:01,819 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:01,954 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:04,759 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:57:04,929 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:57:07,774 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:07,943 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:57:10,795 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:57:10,990 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:57:11,365 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:57:13,820 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:13,998 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:16,363 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:57:16,766 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:16,903 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:57:19,766 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:19,941 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:22,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:22,950 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:25,765 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:25,862 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:28,847 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:57:29,049 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 17:57:31,366 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:57:31,769 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:31,891 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 17:57:34,835 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:35,062 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:37,808 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:37,983 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:40,757 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:40,941 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:57:43,761 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:57:43,957 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:57:46,366 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:57:46,764 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:46,877 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 17:57:49,771 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:49,950 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:51,088 INFO web: 10.163.214.198 GET /health 200 0.2ms
+2026-11-10 17:57:51,364 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:57:52,792 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:52,967 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:57:55,753 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:55,832 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 17:57:58,773 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:57:58,934 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:00,212 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 17:58:01,769 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:58:01,901 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 17:58:05,170 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:05,610 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:06,364 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:58:08,199 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:58:08,659 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.8ms
+2026-11-10 17:58:11,367 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:58:12,073 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:12,669 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:58:14,903 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:15,133 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:58:16,364 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:58:17,776 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:17,955 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 17:58:20,794 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:20,904 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:21,365 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:58:24,136 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:24,563 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:27,785 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:58:27,955 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 17:58:30,811 INFO web: 127.0.0.1 GET /api/status 200 0.4ms
+2026-11-10 17:58:30,988 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 17:58:31,367 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:58:33,774 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:33,981 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:58:36,778 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:36,894 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:39,655 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:39,837 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 17:58:42,777 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:58:42,941 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.6ms
+2026-11-10 17:58:45,784 INFO web: 127.0.0.1 GET /api/status 200 0.5ms
+2026-11-10 17:58:45,900 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 2.2ms
+2026-11-10 17:58:46,367 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:58:48,779 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:48,955 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:51,783 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:52,024 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:54,802 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:54,960 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:58:57,786 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:58:57,966 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:59:00,095 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 17:59:00,207 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.2ms
+2026-11-10 17:59:00,258 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 17:59:00,315 INFO web: 10.163.214.198 GET /favicon.ico 404 0.2ms
+2026-11-10 17:59:06,369 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:59:11,366 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 17:59:21,369 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:59:36,369 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 17:59:51,370 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:00:06,370 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:00:21,371 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:00:41,371 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:00:56,372 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:01:01,369 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:01:06,369 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:01:16,372 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:01:41,373 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:01:45,644 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:02:06,374 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:02:26,374 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:02:31,371 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:02:41,375 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:02:46,372 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:03:01,375 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:03:06,373 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:03:15,500 INFO web: 10.163.214.198 GET / 200 0.8ms
+2026-11-10 18:03:15,533 INFO web: 10.163.214.198 GET /static/style.css 200 2.1ms
+2026-11-10 18:03:15,565 INFO web: 10.163.214.198 GET /static/dashboard.js 200 1.6ms
+2026-11-10 18:03:15,595 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:03:15,632 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 18:03:16,376 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:03:17,688 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:17,721 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:19,792 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:19,826 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:21,869 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:21,912 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:23,956 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:23,989 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:03:26,030 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:26,062 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:28,107 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:28,137 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:03:30,282 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:30,316 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:32,367 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:03:32,404 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 18:03:34,591 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:03:34,634 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 18:03:36,376 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:03:36,681 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:36,722 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:38,848 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:38,971 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:41,198 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:41,403 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:43,831 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:43,869 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:46,024 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:46,056 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:48,111 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:03:48,157 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 18:03:50,736 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:03:50,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 18:03:51,377 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:03:53,765 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:53,796 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:03:56,744 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:56,777 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:03:59,762 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:03:59,792 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:01,374 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:04:02,740 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:02,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:05,758 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:05,794 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:08,770 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:04:08,805 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 18:04:11,377 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:04:11,761 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:11,798 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:14,788 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:14,979 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:04:17,787 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:17,894 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:20,740 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:20,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:23,752 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:04:23,804 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.7ms
+2026-11-10 18:04:26,377 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:04:26,760 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:26,789 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:29,740 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:29,778 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:32,765 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:32,823 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:35,765 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:35,798 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:04:37,531 INFO web: 10.163.214.65 GET / 200 0.3ms
+2026-11-10 18:04:37,635 INFO web: 10.163.214.65 GET /static/style.css 200 0.7ms
+2026-11-10 18:04:37,643 INFO web: 10.163.214.65 GET /static/dashboard.js 200 0.8ms
+2026-11-10 18:04:37,677 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:37,679 INFO web: 10.163.214.65 GET /favicon.ico 404 0.2ms
+2026-11-10 18:04:37,697 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:04:38,746 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:38,780 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:04:39,720 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:39,813 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:41,766 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:41,843 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:41,860 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:04:41,934 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:04:43,970 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:44,005 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:04:44,743 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:44,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:04:46,045 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:46,072 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:04:47,756 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:04:47,792 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:04:48,098 INFO web: 10.163.214.65 GET /api/status 200 0.5ms
+2026-11-10 18:04:48,120 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:04:50,153 INFO web: 10.163.214.65 GET /api/status 200 0.5ms
+2026-11-10 18:04:50,182 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:04:50,616 INFO web: 10.163.214.65 GET / 200 0.7ms
+2026-11-10 18:04:50,746 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:04:50,789 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.7ms
+2026-11-10 18:04:51,378 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:04:52,209 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:52,233 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:53,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:53,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:54,260 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:54,283 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:56,746 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:56,800 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:57,046 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:04:57,065 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:04:59,745 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:04:59,794 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:05:00,062 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:05:00,101 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:02,745 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:02,784 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 18:05:05,783 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:05,823 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:05:06,378 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:05:08,734 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:08,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:11,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:11,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:05:14,731 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:14,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:16,805 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:05:16,854 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:05:17,599 INFO web: 10.163.214.198 POST /api/led 202 1.0ms
+2026-11-10 18:05:17,600 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:05:17,645 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:18,901 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:18,942 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:05:20,991 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:21,027 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 5.3ms
+2026-11-10 18:05:21,382 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:05:21,701 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:05:21,750 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:23,073 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:23,124 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:24,047 INFO web: 10.163.214.65 GET /api/status 200 0.2ms
+2026-11-10 18:05:24,066 INFO web: 10.163.214.65 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:25,229 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:25,263 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:27,304 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:27,337 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:29,386 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:29,432 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:30,896 INFO web: 10.163.214.198 POST /api/led 202 0.4ms
+2026-11-10 18:05:30,896 INFO device: LED command source=browser state=off -> applied
+2026-11-10 18:05:30,925 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:05:31,377 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:05:31,473 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:05:31,513 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 18:05:33,556 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:05:33,597 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:05:35,654 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:05:35,691 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:05:36,380 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:05:37,745 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:37,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:05:39,847 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:39,876 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:42,731 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:42,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:45,726 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:45,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:05:48,731 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:05:48,778 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.2ms
+2026-11-10 18:05:51,380 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:05:51,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:51,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:05:54,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:54,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:05:57,734 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:05:57,776 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:00,731 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:00,785 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:03,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:03,754 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:06,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:06,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:09,748 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:09,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:11,377 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:06:12,757 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:06:12,894 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.1ms
+2026-11-10 18:06:15,771 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:06:15,812 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 18:06:16,380 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:06:18,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:18,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:21,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:21,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:24,726 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:24,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:27,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:27,893 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:30,754 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:30,786 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:33,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:33,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:36,729 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:06:36,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:06:39,732 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:06:39,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:06:41,381 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:06:42,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:42,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:06:45,830 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:46,022 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:06:48,758 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:48,987 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:06:51,729 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:06:51,890 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:06:54,748 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:06:54,907 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.2ms
+2026-11-10 18:06:56,381 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:06:57,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:06:57,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:07:00,810 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:00,840 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:07:03,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:03,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:07:06,772 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:06,799 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:07:09,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:09,789 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:07:12,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:12,744 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:07:15,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:15,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:07:18,722 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:07:18,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 18:07:21,382 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:07:21,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:21,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:07:24,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:24,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:07:27,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:27,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:07:30,710 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:30,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:07:33,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:33,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:07:36,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:36,774 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:07:39,800 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:39,827 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:07:42,720 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:07:42,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.8ms
+2026-11-10 18:07:45,731 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:07:45,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.1ms
+2026-11-10 18:07:46,382 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:07:48,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:48,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:07:51,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:51,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:07:54,706 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:54,740 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:07:56,380 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:07:57,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:07:57,753 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:00,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:00,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:03,725 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:08:03,805 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:08:06,383 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:08:06,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:06,742 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:09,705 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:09,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:12,709 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:12,741 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:08:15,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:15,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:18,784 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:08:18,894 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.8ms
+2026-11-10 18:08:21,383 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:08:21,718 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:21,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:24,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:24,742 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:27,716 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:27,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:08:30,706 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:30,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:33,758 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:08:33,801 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.2ms
+2026-11-10 18:08:36,384 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:08:36,718 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:36,748 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:39,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:39,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:42,748 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:42,879 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:08:45,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:45,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:48,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:48,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:08:51,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:51,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:08:54,706 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:08:54,734 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:08:57,722 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:08:57,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.1ms
+2026-11-10 18:09:00,700 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:09:00,738 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 18:09:01,384 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:09:03,701 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:03,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:09:06,382 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:09:06,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:06,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:09,703 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:09,734 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:09:12,777 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:12,884 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:09:15,710 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:15,741 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:18,705 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:18,750 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.3ms
+2026-11-10 18:09:21,726 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:09:21,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 18:09:24,713 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:09:24,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 18:09:26,385 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:09:27,702 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:27,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:30,697 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:30,734 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:33,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:33,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:36,698 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:36,725 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:09:39,706 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:39,741 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:09:42,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:42,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:45,698 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:45,731 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:48,706 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:09:48,737 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:09:51,385 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:09:51,717 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:51,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:54,708 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:54,741 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:09:56,383 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:09:57,700 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:09:57,734 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:10:00,330 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:10:00,360 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:10:02,406 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:10:02,443 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:10:04,717 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:10:04,753 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:10:07,962 INFO device: workers stopped, LED off
+2026-11-10 18:12:09,230 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 18:12:09,750 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:12:14,747 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:12:15,316 INFO web: 10.163.214.198 GET / 200 6.2ms
+2026-11-10 18:12:15,376 INFO web: 10.163.214.198 GET /static/style.css 304 9.1ms
+2026-11-10 18:12:15,386 INFO web: 10.163.214.198 GET /static/dashboard.js 304 1.6ms
+2026-11-10 18:12:15,425 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:12:15,471 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:12:17,522 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:17,555 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:12:17,945 INFO web: 10.163.214.198 GET / 200 0.3ms
+2026-11-10 18:12:17,972 INFO web: 10.163.214.198 GET /static/style.css 304 0.8ms
+2026-11-10 18:12:17,993 INFO web: 10.163.214.198 GET /static/dashboard.js 304 0.7ms
+2026-11-10 18:12:18,018 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:18,063 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:18,437 INFO web: 10.163.214.198 GET / 200 0.3ms
+2026-11-10 18:12:18,479 INFO web: 10.163.214.198 GET /static/style.css 304 0.8ms
+2026-11-10 18:12:18,489 INFO web: 10.163.214.198 GET /static/dashboard.js 304 1.2ms
+2026-11-10 18:12:18,511 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:18,548 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:20,511 INFO web: 10.163.214.198 POST /api/led 202 0.5ms
+2026-11-10 18:12:20,511 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:12:20,558 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:20,608 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:20,642 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:22,209 INFO web: 10.163.214.198 POST /api/led 202 0.5ms
+2026-11-10 18:12:22,210 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:12:22,255 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:22,691 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:22,728 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:23,158 INFO web: 10.163.214.198 POST /api/led 202 0.4ms
+2026-11-10 18:12:23,159 INFO device: LED command source=browser state=off -> applied
+2026-11-10 18:12:23,194 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:24,771 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:24,801 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:12:26,839 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:26,870 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:28,918 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:12:28,980 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:12:31,763 INFO device: workers stopped, LED off
+2026-11-10 18:14:22,418 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 18:14:22,719 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:14:22,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 11.8ms
+2026-11-10 18:14:22,912 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:14:25,716 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:25,750 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:14:28,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:28,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:14:31,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:31,739 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:14:32,911 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:14:33,790 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:33,830 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:14:35,879 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:35,912 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:14:37,966 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:38,006 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:14:40,053 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:40,089 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:14:42,127 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:42,164 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:14:42,909 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:14:44,295 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:14:44,338 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:14:46,558 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:46,589 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:14:48,823 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:48,856 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:14:51,085 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:14:51,276 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:14:53,709 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:53,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:14:56,709 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:56,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:14:57,912 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:14:59,709 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:14:59,743 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:02,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:02,909 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 95.4ms
+2026-11-10 18:15:05,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:05,748 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:08,715 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:15:08,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:15:11,743 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:15:11,819 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:15:14,717 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:14,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:17,825 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:17,913 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:15:17,935 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 20.2ms
+2026-11-10 18:15:20,709 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:20,743 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:15:23,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:23,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:15:26,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:26,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:29,722 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:15:29,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:15:32,770 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:32,913 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:15:32,914 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 37.6ms
+2026-11-10 18:15:35,832 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:36,125 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:15:38,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:38,857 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:15:41,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:41,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:42,910 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:15:44,718 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:15:44,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:15:47,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:47,910 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 74.0ms
+2026-11-10 18:15:50,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:50,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:52,913 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:15:53,710 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:53,740 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:15:56,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:56,839 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:15:59,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:15:59,741 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:16:02,749 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:02,911 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 90.6ms
+2026-11-10 18:16:05,725 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:16:05,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:16:07,913 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:16:08,716 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:08,780 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:16:11,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:11,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:16:14,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:14,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:16:17,785 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:17,912 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 48.3ms
+2026-11-10 18:16:20,712 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:16:20,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:16:22,928 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:16:23,715 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:16:23,776 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.3ms
+2026-11-10 18:16:26,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:26,742 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:16:27,919 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:16:29,710 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:29,739 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:16:31,802 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:31,843 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 6.6ms
+2026-11-10 18:16:32,332 INFO web: 10.163.214.198 GET / 200 5.6ms
+2026-11-10 18:16:32,386 INFO web: 10.163.214.198 GET /static/style.css 304 10.8ms
+2026-11-10 18:16:32,386 INFO web: 10.163.214.198 GET /static/dashboard.js 200 1.9ms
+2026-11-10 18:16:32,427 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:32,461 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:16:33,256 INFO web: 10.163.214.198 GET / 200 0.4ms
+2026-11-10 18:16:33,298 INFO web: 10.163.214.198 GET /static/style.css 304 0.8ms
+2026-11-10 18:16:33,306 INFO web: 10.163.214.198 GET /static/dashboard.js 304 1.2ms
+2026-11-10 18:16:33,328 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:33,362 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:16:35,408 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:16:35,440 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:16:37,817 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:37,934 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 9.8ms
+2026-11-10 18:16:38,606 INFO device: workers stopped, LED off
+2026-11-10 18:16:41,951 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 18:16:42,064 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:16:42,121 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 7.8ms
+2026-11-10 18:16:42,554 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:16:44,166 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:44,197 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:16:46,237 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:46,271 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:16:47,553 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:16:48,318 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:48,349 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:16:48,692 INFO web: 10.163.214.198 POST /api/led 202 0.5ms
+2026-11-10 18:16:48,693 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:16:48,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:49,912 INFO web: 10.163.214.198 POST /api/led 202 0.5ms
+2026-11-10 18:16:49,912 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:16:49,954 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:50,389 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:50,420 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:16:51,013 INFO web: 10.163.214.198 POST /api/led 202 0.4ms
+2026-11-10 18:16:51,013 INFO device: LED command source=browser state=off -> applied
+2026-11-10 18:16:51,054 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:52,555 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:52,591 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:16:54,635 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:54,666 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:16:54,997 INFO web: 10.163.214.198 POST /api/led 202 0.4ms
+2026-11-10 18:16:54,997 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:16:55,034 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:56,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:56,743 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:16:59,711 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:16:59,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:01,067 INFO device: workers stopped, LED off
+2026-11-10 18:17:17,852 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 18:17:18,022 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:17:18,097 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:17:20,137 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:20,169 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:17:22,216 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:22,250 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.9ms
+2026-11-10 18:17:23,364 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:17:24,308 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:24,343 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:26,381 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:26,412 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:28,361 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:17:28,450 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:28,481 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:17:30,527 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:30,558 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:17:32,600 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:32,934 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:34,992 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:35,020 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:17:37,099 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:37,134 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:17:39,323 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:17:39,355 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:17:41,593 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:17:41,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.4ms
+2026-11-10 18:17:43,365 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:17:43,819 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:43,856 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:46,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:46,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:49,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:49,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:52,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:52,754 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:17:55,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:17:55,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:17:58,710 INFO web: 10.163.214.198 GET /api/status 200 0.6ms
+2026-11-10 18:17:58,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:18:01,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:01,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:04,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:04,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:18:07,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:07,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:10,719 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:18:10,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:18:13,718 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:13,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:16,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:16,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:18,365 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:18:19,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:19,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:18:22,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:22,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:18:25,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:25,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:28,731 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:28,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:18:31,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:31,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:33,363 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:18:34,712 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:34,743 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:34,840 INFO web: 127.0.0.1 GET /health 200 0.2ms
+2026-11-10 18:18:34,875 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 18:18:34,910 INFO web: 127.0.0.1 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:34,945 INFO web: 127.0.0.1 GET /api/readings?limit=-1 200 1.6ms
+2026-11-10 18:18:34,978 INFO web: mode changed -> MANUAL
+2026-11-10 18:18:34,979 INFO web: 127.0.0.1 POST /api/mode 200 0.9ms
+2026-11-10 18:18:35,013 INFO web: 127.0.0.1 POST /api/led 202 0.6ms
+2026-11-10 18:18:35,014 INFO device: LED command source=browser state=on -> applied
+2026-11-10 18:18:36,049 INFO web: 127.0.0.1 GET /api/status 200 0.2ms
+2026-11-10 18:18:36,082 INFO web: 127.0.0.1 POST /api/led 202 0.4ms
+2026-11-10 18:18:36,083 INFO device: LED command source=browser state=off -> applied
+2026-11-10 18:18:36,118 INFO web: 127.0.0.1 POST /api/led 400 0.3ms
+2026-11-10 18:18:36,153 INFO web: 127.0.0.1 POST /api/led 400 0.4ms
+2026-11-10 18:18:36,190 INFO web: mode changed -> AUTO
+2026-11-10 18:18:36,190 INFO web: 127.0.0.1 POST /api/mode 200 0.7ms
+2026-11-10 18:18:36,223 INFO web: 127.0.0.1 POST /api/led 409 0.3ms
+2026-11-10 18:18:36,257 INFO web: 127.0.0.1 GET /api/led 405 0.2ms
+2026-11-10 18:18:36,291 INFO web: 127.0.0.1 GET /api/nothing 404 0.2ms
+2026-11-10 18:18:36,325 INFO web: mode changed -> MANUAL
+2026-11-10 18:18:36,326 INFO web: 127.0.0.1 POST /api/mode 200 0.7ms
+2026-11-10 18:18:37,746 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:37,792 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:38,363 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:18:40,716 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:18:40,748 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:18:43,366 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:18:43,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:43,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:18:46,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:46,750 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 5.1ms
+2026-11-10 18:18:49,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:49,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:18:52,715 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:52,750 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:18:55,716 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:18:55,748 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:18:58,707 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:18:58,744 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.1ms
+2026-11-10 18:19:01,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:01,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:19:04,718 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:19:04,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:19:07,716 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:07,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:10,713 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:10,748 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:13,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:13,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:16,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:16,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:19:19,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:19,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:19:22,729 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:19:22,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 18:19:25,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:25,746 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:19:28,365 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:19:28,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:28,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:31,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:31,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:33,367 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:19:34,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:34,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:37,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:37,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:19:40,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:40,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:19:43,365 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:19:43,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:43,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:19:46,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:46,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:49,726 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:19:49,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:19:52,743 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:19:52,806 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.3ms
+2026-11-10 18:19:55,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:55,752 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:19:58,368 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:19:58,710 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:19:58,862 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.4ms
+2026-11-10 18:20:01,722 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:01,998 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:04,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:04,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:07,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:07,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:20:10,872 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:10,907 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:20:13,715 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:20:13,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.4ms
+2026-11-10 18:20:16,744 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:16,780 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:20:19,838 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:20:19,873 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.7ms
+2026-11-10 18:20:22,738 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:22,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:20:23,366 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:20:25,718 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:25,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:20:28,369 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:20:28,742 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:28,778 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:31,742 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:31,776 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:20:34,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:34,754 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:20:37,717 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:37,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:40,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:40,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:20:42,807 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:42,846 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:45,725 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:20:45,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:20:48,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:48,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:20:51,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:51,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:53,370 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:20:53,789 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:53,822 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:54,462 INFO web: mode changed -> AUTO
+2026-11-10 18:20:54,463 INFO web: 10.163.214.198 POST /api/mode 200 0.7ms
+2026-11-10 18:20:54,495 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:55,876 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:55,909 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:20:57,955 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:20:57,991 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:20:58,367 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:21:00,045 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:00,082 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:21:02,132 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:02,164 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:04,215 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:04,241 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:06,284 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:06,318 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.1ms
+2026-11-10 18:21:08,372 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:08,399 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:10,453 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:21:10,491 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:21:12,904 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:21:12,939 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:21:13,369 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:21:15,021 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:15,118 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:21:17,863 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:18,038 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.5ms
+2026-11-10 18:21:20,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:20,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:21:22,812 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:22,848 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:21:25,727 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:21:25,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.1ms
+2026-11-10 18:21:27,442 INFO web: mode changed -> MANUAL
+2026-11-10 18:21:27,443 INFO web: 10.163.214.198 POST /api/mode 200 1.5ms
+2026-11-10 18:21:27,499 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:21:27,821 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:21:27,864 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:21:28,370 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:21:29,914 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:29,965 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:32,032 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:32,066 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:21:34,118 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:34,148 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:21:36,290 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:36,321 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:21:38,547 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:38,723 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:21:40,761 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:40,798 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:21:42,861 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:42,899 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:21:45,954 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:21:46,106 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:21:48,745 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:48,779 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:51,723 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:51,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:53,371 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:21:54,734 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:54,775 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:21:57,748 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:21:57,791 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:22:00,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:00,814 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:22:03,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:03,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:06,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:06,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:09,747 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:22:09,787 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.6ms
+2026-11-10 18:22:11,830 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:22:11,866 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:22:12,323 INFO web: mode changed -> AUTO
+2026-11-10 18:22:12,324 INFO web: 10.163.214.198 POST /api/mode 200 0.9ms
+2026-11-10 18:22:12,354 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:22:13,372 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:22:13,915 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:13,948 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:16,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:16,793 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:18,842 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:18,877 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:20,917 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:20,953 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:23,023 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:23,079 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:23,370 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:22:25,153 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:22:25,204 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.7ms
+2026-11-10 18:22:27,253 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:27,287 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:29,338 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:29,367 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:22:31,409 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:31,443 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:33,372 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:22:33,474 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:33,508 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:35,574 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:35,608 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:37,655 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:37,686 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:39,744 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:39,779 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:41,829 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:41,863 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:43,493 INFO web: mode changed -> MANUAL
+2026-11-10 18:22:43,493 INFO web: 10.163.214.198 POST /api/mode 200 0.8ms
+2026-11-10 18:22:43,541 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:43,910 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:43,946 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.5ms
+2026-11-10 18:22:46,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:22:46,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:22:49,732 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:22:49,774 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:22:52,735 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:22:52,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:22:53,373 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:22:54,805 INFO device: workers stopped, LED off
+2026-11-10 18:23:04,034 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=27.5, DB=sensors.db)
+2026-11-10 18:23:05,714 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:23:05,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.2ms
+2026-11-10 18:23:08,745 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:23:08,784 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:23:09,531 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:23:11,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:11,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:23:14,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:14,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:23:17,545 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:17,594 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:19,633 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:23:19,677 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.0ms
+2026-11-10 18:23:21,565 INFO web: mode changed -> AUTO
+2026-11-10 18:23:21,566 INFO web: 10.163.214.198 POST /api/mode 200 1.9ms
+2026-11-10 18:23:21,599 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:23:21,730 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:23:21,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.7ms
+2026-11-10 18:23:23,826 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:23,861 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:23:24,530 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:23:25,916 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:25,958 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:28,015 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:28,052 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:29,532 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:23:30,105 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:30,144 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:32,191 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:32,220 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:23:34,260 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:34,497 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 159.3ms
+2026-11-10 18:23:34,530 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:23:36,595 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:36,629 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:38,674 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:38,708 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:39,530 INFO device: LED command source=auto state=on -> applied
+2026-11-10 18:23:40,750 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:23:40,789 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.7ms
+2026-11-10 18:23:42,850 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:23:42,888 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:23:45,738 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:45,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:48,777 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:23:48,886 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:23:49,533 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:23:51,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:51,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:23:54,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:54,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:23:57,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:23:57,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:24:00,882 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:24:01,106 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.7ms
+2026-11-10 18:24:03,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:03,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:24:06,769 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:06,802 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:24:08,841 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:24:08,879 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:24:09,533 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:24:10,919 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:10,949 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:24:13,000 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:13,098 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:24:15,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:15,749 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:24:18,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:18,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:24:20,908 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:24:21,065 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:24:23,329 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:24:23,488 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:24:25,046 INFO device: workers stopped, LED off
+2026-11-10 18:24:49,561 INFO device: workers started (MOCK=False, mode=MANUAL, threshold=28.0, DB=sensors.db)
+2026-11-10 18:24:49,761 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:24:49,790 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 18:24:50,054 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:24:52,714 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:52,747 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:24:55,056 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:24:55,805 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:55,857 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:24:58,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:24:58,757 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:25:00,053 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:25:01,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:01,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:25:04,726 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:04,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:25:05,053 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:25:07,727 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:25:07,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.3ms
+2026-11-10 18:25:10,056 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:25:10,807 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:10,914 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:25:13,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:13,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:25:16,768 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:16,841 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:25:19,751 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:19,903 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:25:22,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:22,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:25:25,053 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:25:25,736 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:25:25,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.9ms
+2026-11-10 18:25:28,728 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:25:28,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.2ms
+2026-11-10 18:25:30,056 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:25:31,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:31,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:25:34,720 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:34,753 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:25:37,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:37,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:25:40,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:40,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:25:43,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:43,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:25:46,726 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:25:46,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.3ms
+2026-11-10 18:25:49,721 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:25:49,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.3ms
+2026-11-10 18:25:50,057 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:25:52,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:52,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.1ms
+2026-11-10 18:25:55,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:55,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:25:58,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:25:58,774 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:01,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:01,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:26:04,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:04,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:26:07,733 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:26:07,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.4ms
+2026-11-10 18:26:10,058 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:26:10,738 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:10,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:13,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:13,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:16,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:16,826 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:19,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:19,776 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:22,723 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:26:22,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.4ms
+2026-11-10 18:26:25,058 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:26:25,759 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:25,790 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:28,750 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:28,784 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:31,781 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:31,846 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:34,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:34,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:26:37,735 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:26:37,775 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.8ms
+2026-11-10 18:26:40,058 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:26:40,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:40,756 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:26:43,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:43,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:26:46,758 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:46,797 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:26:49,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:49,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:26:52,735 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:26:52,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.3ms
+2026-11-10 18:26:55,059 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:26:55,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:55,965 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.1ms
+2026-11-10 18:26:58,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:26:58,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:01,806 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:01,839 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:04,736 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:04,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:07,732 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:27:07,785 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 12.2ms
+2026-11-10 18:27:10,059 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:27:10,724 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:10,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:13,756 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:13,823 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:16,759 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:16,790 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:19,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:19,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:20,056 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:27:22,735 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:27:22,778 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:27:25,059 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:27:25,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:25,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:28,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:28,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:27:31,727 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:31,761 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:27:35,057 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:27:35,062 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:27:35,178 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.2ms
+2026-11-10 18:27:37,732 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:27:37,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.5ms
+2026-11-10 18:27:40,060 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:27:40,820 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:40,916 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.2ms
+2026-11-10 18:27:43,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:43,763 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:46,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:46,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:49,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:49,770 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:27:52,738 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:27:52,797 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:27:55,733 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:27:55,772 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.5ms
+2026-11-10 18:27:58,732 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:27:58,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.5ms
+2026-11-10 18:28:00,060 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:28:01,761 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:01,797 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:28:04,758 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:04,804 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:28:07,733 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:07,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:28:10,058 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:28:10,742 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:10,779 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:28:13,731 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:13,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:28:15,061 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:28:16,729 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:16,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:28:19,922 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:20,058 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:28:20,059 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 48.7ms
+2026-11-10 18:28:22,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:22,758 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:28:25,058 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:28:25,730 INFO web: 10.163.214.198 GET /api/status 200 0.5ms
+2026-11-10 18:28:25,768 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.5ms
+2026-11-10 18:28:28,740 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:28,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:28:30,061 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:28:31,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:31,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:28:34,922 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:28:35,061 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.2ms
+2026-11-10 18:28:37,741 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:37,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:28:40,734 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:40,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:28:43,883 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:44,184 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.5ms
+2026-11-10 18:28:45,061 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:28:46,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:47,007 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:28:49,812 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:50,059 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 130.2ms
+2026-11-10 18:28:50,059 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:28:52,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:28:52,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:28:55,736 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:55,776 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:28:58,730 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:28:58,773 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.4ms
+2026-11-10 18:29:00,062 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:29:01,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:01,762 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:04,764 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:04,801 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:05,059 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:29:07,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:07,791 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:10,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:10,771 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:13,766 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:13,954 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:16,788 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:16,816 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:20,064 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:20,089 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:29:22,739 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:29:22,931 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:29:25,062 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:29:25,808 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:25,839 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:29:28,850 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:28,885 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.0ms
+2026-11-10 18:29:30,060 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:29:31,751 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:31,781 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:29:34,982 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:35,060 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:29:35,217 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 2.4ms
+2026-11-10 18:29:37,861 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:37,891 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:40,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:40,759 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:43,858 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:29:43,971 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:29:45,063 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:29:46,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:46,925 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:49,938 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:29:50,060 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 39.6ms
+2026-11-10 18:29:52,843 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:52,882 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:55,725 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:55,863 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:29:58,751 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:29:58,782 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:30:01,855 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:01,892 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:30:04,897 INFO web: 10.163.214.198 GET /api/status 200 0.3ms
+2026-11-10 18:30:05,063 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:30:05,064 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 128.8ms
+2026-11-10 18:30:07,741 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:07,777 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:30:10,732 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:10,766 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:30:13,731 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:13,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:30:16,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:16,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:30:19,926 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:20,061 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 56.3ms
+2026-11-10 18:30:22,745 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:22,788 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:30:25,064 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:30:25,730 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:25,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:30:28,735 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:28,775 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:30:31,728 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:31,760 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:30:34,895 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:35,062 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 98.9ms
+2026-11-10 18:30:37,737 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:37,775 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:30:40,728 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:40,764 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:30:43,729 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:43,767 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.6ms
+2026-11-10 18:30:45,064 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:30:46,717 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:46,750 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.9ms
+2026-11-10 18:30:49,822 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:50,097 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:30:52,721 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:30:52,751 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:30:55,723 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:55,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 3.5ms
+2026-11-10 18:30:58,721 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:30:58,765 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.1ms
+2026-11-10 18:31:00,064 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:31:01,826 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:31:01,856 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:31:05,062 WARNING device: sensor ERROR: Checksum did not validate. Try again.
+2026-11-10 18:31:05,085 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:31:05,111 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:31:07,736 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:31:07,769 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.7ms
+2026-11-10 18:31:10,710 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:31:10,745 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.2ms
+2026-11-10 18:31:13,736 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:31:13,783 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 4.0ms
+2026-11-10 18:31:15,065 WARNING device: sensor ERROR: A full buffer was not returned. Try again.
+2026-11-10 18:31:16,719 INFO web: 10.163.214.198 GET /api/status 200 0.2ms
+2026-11-10 18:31:16,755 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.6ms
+2026-11-10 18:31:19,942 INFO web: 10.163.214.198 GET /api/status 200 0.4ms
+2026-11-10 18:31:20,064 INFO web: 10.163.214.198 GET /api/readings?limit=5 200 1.8ms
+2026-11-10 18:31:21,079 INFO device: workers stopped, LED off

@@ -1,0 +1,24 @@
+body { font-family: system-ui, "Malgun Gothic", sans-serif; background: #f4f6f8; color: #1d2733; margin: 0; }
+main { max-width: 640px; margin: 24px auto; padding: 0 16px; }
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.1rem; margin-top: 28px; }
+.cards { display: flex; gap: 12px; }
+.card { flex: 1; background: #fff; border-radius: 10px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.label { display: block; color: #5b6775; font-size: .9rem; }
+.value strong { font-size: 2.2rem; }
+.status p { margin: 6px 0; }
+.badge { display: inline-block; padding: 1px 8px; border-radius: 999px; background: #dde3ea; font-size: .85rem; }
+.badge.good { background: #d4f2dd; color: #146c2e; }
+.badge.bad { background: #fbdcdc; color: #a11d1d; }
+.badge.on { background: #ffe9a8; color: #7a5600; }
+.badge.auto { background: #dbe7ff; color: #1f4aa8; }
+.muted { color: #6b7684; font-size: .85rem; }
+.controls { display: flex; gap: 16px; margin-top: 16px; flex-wrap: wrap; }
+button { padding: 8px 16px; border: 0; border-radius: 6px; background: #1f6feb; color: #fff; cursor: pointer; font-size: .95rem; }
+button[data-mode] { background: #57606a; }
+button:disabled { background: #b6bec8; cursor: not-allowed; }
+#message { min-height: 1.4em; }
+#message.ok { color: #146c2e; }
+#message.error { color: #a11d1d; }
+table { width: 100%; border-collapse: collapse; background: #fff; font-size: .85rem; }
+th, td { padding: 6px 8px; border-bottom: 1px solid #e3e7ec; text-align: left; }

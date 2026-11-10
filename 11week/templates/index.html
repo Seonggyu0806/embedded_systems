@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raspberry Pi 환경 모니터</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main>
+  <h1>Raspberry Pi 환경 모니터</h1>
+
+  <section class="cards">
+    <div class="card">
+      <span class="label">온도</span>
+      <span class="value"><strong id="temperature">--</strong> <small>°C</small></span>
+    </div>
+    <div class="card">
+      <span class="label">습도</span>
+      <span class="value"><strong id="humidity">--</strong> <small>%</small></span>
+    </div>
+  </section>
+
+  <section class="status">
+    <p>센서: <span id="sensor-status" class="badge">INIT</span>
+       <span id="sensor-error" class="muted"></span></p>
+    <p>갱신: <time id="updated-at">--</time> <span id="freshness" class="badge">--</span></p>
+    <p>LED(실제): <span id="led-state" class="badge">off</span></p>
+    <p>모드: <span id="mode" class="badge">--</span>
+       <span class="muted">AUTO 기준 {{ threshold }} °C 이상 → LED ON</span></p>
+    <p>마지막 명령: <span id="last-command" class="muted">--</span></p>
+  </section>
+
+  <section class="controls">
+    <div>
+      <button data-state="on">LED ON</button>
+      <button data-state="off">LED OFF</button>
+    </div>
+    <div>
+      <button data-mode="MANUAL">MANUAL</button>
+      <button data-mode="AUTO">AUTO</button>
+    </div>
+  </section>
+
+  <p id="message" aria-live="polite"></p>
+
+  <h2>최근 기록</h2>
+  <table>
+    <thead><tr><th>시각</th><th>온도(°C)</th><th>습도(%)</th><th>상태</th></tr></thead>
+    <tbody id="readings"></tbody>
+  </table>
+</main>
+<script src="/static/dashboard.js"></script>
+</body>
+</html>
